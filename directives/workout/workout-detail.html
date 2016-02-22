@@ -1,0 +1,12 @@
+<div>
+    <div>{{workout.name}}</div>
+    <div>{{workout.description}}</div>
+    <div>{{workout.equipment}}</div>
+    <div>Date: {{workout.date}}</div>
+    <div>Exercises</div>
+    <ol>
+        <li data-ng-repeat="ex in workout.exercises">
+            <wlog-exercise-detail data-ng-attr-exercise="ex"/>
+        </li>
+    </ol>
+</div>

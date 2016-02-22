@@ -1,0 +1,300 @@
+{
+    "workouts": [
+        {
+            "name":"Chest & Back",
+            "description":"Push-ups, pull-ups, rows, etc.",
+            "equipment":"Dumb-bells, pull-up bar, stool, water, & towel",
+            "date":"20160221",
+            "exercises": [
+                {
+                    "name":"Standard Push-up",
+                    "description":"",
+                    "duration":"",
+                    "reps":"10",
+                    "sets":"1"
+                },
+                {
+                    "name":"Wide Front Pull-up",
+                    "description":"Modified with one foot after fourth rep",
+                    "duration":"",
+                    "reps":"10",
+                    "sets":"1"
+                },
+                {
+                    "name":"Military Push-up",
+                    "description":"",
+                    "duration":"",
+                    "reps":"10",
+                    "sets":"1"
+                },
+                {
+                    "name":"Reverse Grip Chin-up",
+                    "description":"Modified with one foot",
+                    "duration":"",
+                    "reps":"10",
+                    "sets":"1"
+                },
+                {
+                    "name":"Mini Stretch",
+                    "description":"Ballistic stretches and water break",
+                    "duration":"2 minutes",
+                    "reps":"",
+                    "sets":"1"
+                },
+                {
+                    "name":"Wide Fly Push-up",
+                    "description":"",
+                    "duration":"",
+                    "reps":"10",
+                    "sets":"1"
+                },
+                {
+                    "name":"Closed Grip Overhead Pull-up",
+                    "description":"Modified with one foot",
+                    "duration":"",
+                    "reps":"10",
+                    "sets":"1"
+                },
+                {
+                    "name":"Decline Push-up",
+                    "description":"",
+                    "duration":"",
+                    "reps":"10",
+                    "sets":"1"
+                },
+                {
+                    "name":"Heavy Pants",
+                    "description":"",
+                    "duration":"",
+                    "reps":"10",
+                    "sets":"1"
+                },
+                {
+                    "name":"Mini Stretch",
+                    "description":"Ballistic stretches and water break",
+                    "duration":"2 minutes",
+                    "reps":"",
+                    "sets":"1"
+                },
+                {
+                    "name":"Diamond Push-up",
+                    "description":"Modified with one knee",
+                    "duration":"",
+                    "reps":"10",
+                    "sets":"1"
+                },
+                {
+                    "name":"Lawnmower",
+                    "description":"Repeat for both arms",
+                    "duration":"",
+                    "reps":"10",
+                    "sets":"1"
+                },
+                {
+                    "name":"Dive-bomber Push-up",
+                    "description":"",
+                    "duration":"",
+                    "reps":"10",
+                    "sets":"1"
+                },
+                {
+                    "name":"Back Fly",
+                    "description":"",
+                    "duration":"",
+                    "reps":"10",
+                    "sets":"1"
+                },
+                {
+                    "name":"Mini Stretch",
+                    "description":"Ballistic stretches and water break",
+                    "duration":"2 minutes",
+                    "reps":"",
+                    "sets":"1"
+                },
+                {
+                    "name":"Wide Front Pull-up",
+                    "description":"Modified with one foot",
+                    "duration":"",
+                    "reps":"10",
+                    "sets":"1"
+                },
+                {
+                    "name":"Standard Push-up",
+                    "description":"",
+                    "duration":"",
+                    "reps":"10",
+                    "sets":"1"
+                },
+                {
+                    "name":"Reverse Grip Chin-up",
+                    "description":"Modified with one foot",
+                    "duration":"",
+                    "reps":"10",
+                    "sets":"1"
+                },
+                {
+                    "name":"Military Push-up",
+                    "description":"Modified with one knee",
+                    "duration":"",
+                    "reps":"10",
+                    "sets":"1"
+                },
+                {
+                    "name":"Mini Stretch",
+                    "description":"Ballistic stretches and water break",
+                    "duration":"2 minutes",
+                    "reps":"",
+                    "sets":"1"
+                },
+                {
+                    "name":"Closed Grip Overhead Pull-up",
+                    "description":"Modified with one foot",
+                    "duration":"",
+                    "reps":"10",
+                    "sets":"1"
+                },
+                {
+                    "name":"Wide Fly Push-up",
+                    "description":"Modified with one knee",
+                    "duration":"",
+                    "reps":"10",
+                    "sets":"1"
+                },
+                {
+                    "name":"Heavy Pants",
+                    "description":"",
+                    "duration":"",
+                    "reps":"10",
+                    "sets":"1"
+                },
+                {
+                    "name":"Decline Push-up",
+                    "description":"Modified with one knee",
+                    "duration":"",
+                    "reps":"10",
+                    "sets":"1"
+                },
+                {
+                    "name":"Mini Stretch",
+                    "description":"Ballistic stretches and water break",
+                    "duration":"2 minutes",
+                    "reps":"",
+                    "sets":"1"
+                },
+                {
+                    "name":"Lawnmower",
+                    "description":"Repeat for both arms",
+                    "duration":"",
+                    "reps":"10",
+                    "sets":"1"
+                },
+                {
+                    "name":"Diamond Push-up",
+                    "description":"Modified with one knee",
+                    "duration":"",
+                    "reps":"10",
+                    "sets":"1"
+                },
+                {
+                    "name":"Back Fly",
+                    "description":"",
+                    "duration":"",
+                    "reps":"10",
+                    "sets":"1"
+                },
+                {
+                    "name":"Dive-bomber Push-up",
+                    "description":"",
+                    "duration":"",
+                    "reps":"10",
+                    "sets":"1"
+                }
+            ]
+        },
+        {
+            "name":"Ab Ripper X",
+            "description":"Abs, abs, & more abs",
+            "equipment":"Water, & towel",
+            "date":"20160221",
+            "exercises": [
+                {
+                    "name":"In & Out",
+                    "description":"",
+                    "duration":"",
+                    "reps":"20",
+                    "sets":"1"
+                },
+                {
+                    "name":"Seated Bicycle",
+                    "description":"25 reps forwards, 25 reps backwards",
+                    "duration":"",
+                    "reps":"50",
+                    "sets":"1"
+                },
+                {
+                    "name":"Seated Crunchy Frog",
+                    "description":"",
+                    "duration":"",
+                    "reps":"15",
+                    "sets":"1"
+                },
+                {
+                    "name":"Crossed Leg/Wide Leg Sit-up",
+                    "description":"10 reps on each side",
+                    "duration":"",
+                    "reps":"20",
+                    "sets":"1"
+                },
+                {
+                    "name":"Fifer Scissors",
+                    "description":"",
+                    "duration":"",
+                    "reps":"15",
+                    "sets":"1"
+                },
+                {
+                    "name":"Hip Rock 'n Raise",
+                    "description":"",
+                    "duration":"",
+                    "reps":"15",
+                    "sets":"1"
+                },
+                {
+                    "name":"Pulse-up (Heels to Heaven)",
+                    "description":"Hands under hips",
+                    "duration":"",
+                    "reps":"15",
+                    "sets":"1"
+                },
+                {
+                    "name":"Roll-up/V-up Combo",
+                    "description":"",
+                    "duration":"",
+                    "reps":"10",
+                    "sets":"1"
+                },
+                {
+                    "name":"Oblique V-up",
+                    "description":"10 reps on each side",
+                    "duration":"",
+                    "reps":"20",
+                    "sets":"1"
+                },
+                {
+                    "name":"Leg Climb",
+                    "description":"3-point climbs, 10 reps on each side",
+                    "duration":"",
+                    "reps":"20",
+                    "sets":"1"
+                },
+                {
+                    "name":"Mason (Kayak) Twist",
+                    "description":"20 reps, break, 10 reps, break, then 10 reps",
+                    "duration":"",
+                    "reps":"40",
+                    "sets":"1"
+                }
+            ]
+        }
+    ]
+}
